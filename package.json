@@ -1,0 +1,22 @@
+{
+  "name": "challenge-calculator",
+  "version": "1.0.0",
+  "description": "Make a calculator adding an endpoint for each operation [Add,Substract,Multiply,Divide], each endpoint will receive two numbers and return the result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcepedaf/node-challenge-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcepedaf/node-challenge-calculator/issues"
+  },
+  "homepage": "https://github.com/jcepedaf/node-challenge-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
